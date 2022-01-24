@@ -1,3 +1,4 @@
+This Project contain C# functions to check interval in periods also count dates and get different between dates and upload file
 First thank you for this powerful, useful and creative task , so I benefited a lot from it
 Kindly Note
 The task was done exactly as required without adding validations except  basic validations ASAP, as it was not explicitly requested in Email, therefore Project Should run Correctly
